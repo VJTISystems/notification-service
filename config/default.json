@@ -1,0 +1,11 @@
+{
+  "service": {
+    "port": 3000,
+    "smtp": {
+      "host": "smtp.example.com",
+      "port": 587,
+      "user": "user@example.com",
+      "pass": "password"
+    }
+  }
+}
