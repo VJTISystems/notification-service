@@ -1,2 +1,5 @@
-# notification-service
-Event-driven notification and messaging service
+# Notification Service
+
+Handles email and system notifications.
+
+Consumes events from order-service.
